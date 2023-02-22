@@ -4,13 +4,13 @@ Marketing, and business is fun, but to create solutions that the world faces tod
 by showing the creative side motivates me towards a career in the tech industry. 
 
 
-- 👀 I’m interested in UX design, but being a great one at it. Animation.
-- 🌱 I’m currently learning ... UX design, programming in python (coursework) and C++
+- 👀 I’m interested in starting my career as a UX designer or Software Engineer but being a great one at it. 
+- 🌱 I’m currently learning ... UX design, Python, Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on ... I'm honestly still discovering, I love augmented and virtual reality
 - 📫 How to reach me ...
 
 Message me on Instagram at @x.Dianna (Please Dm if you found me from here so I don't ignore)
-Connect on Linkedin.com/in/DiannaDImam
+Connect on Linkedin.com/in/DiannaD
 
 or invite me to your discord channel :-)
 <!---
