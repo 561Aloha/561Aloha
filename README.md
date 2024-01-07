@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @561Aloha.
+hb- 👋 Hi, I’m @561Aloha.
 I'm a social media manager transitioning to the tech industry so that I can make an impact through my work. 
 Marketing, and business is fun, but to create solutions that the world faces today, or to inspire diversity
 by showing the creative side motivates me towards a career in the tech industry. 
@@ -13,8 +13,3 @@ Message me on Instagram at @x.Dianna
 Connect on Linkedin.com/in/DiannaD
 
 or invite me to your discord channel :-)
-<!---
-561Aloha/561Aloha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-- 
