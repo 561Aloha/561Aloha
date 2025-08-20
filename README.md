@@ -1,7 +1,7 @@
 hb- 👋 Hi, I’m @561Aloha.
-I'm a recent computer science graduate and building applications based in React, Java, and Python. 
+I'm a recent computer science graduate and building applications based in React, Java, and Python.
 
-- 👀 I’m interested in starting my career as a UX designer or Full Stack Developer (Im open for work)
+- 👀 I’m interested in Software engineering or Full Stack Web development Roles(Im open for work)
 - 🌱 I’m currently learning ... Java, Python, Swift, and microanimations in CSS
 - 💞️ I’m looking to collaborate on ... Virtual Reality UX Design Projects and website development.
 - 📫 How to reach me ...
