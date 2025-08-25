@@ -1,4 +1,4 @@
-hb- 👋 Hi, I’m @561Aloha.
+👋
 I'm a recent computer science graduate and building applications based in React, Java, and Python.
 
 - 👀 I’m interested in Software engineering or Full Stack Web development Roles(Im open for work)
